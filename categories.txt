@@ -1,0 +1,1 @@
+["https://ticketon.kz/cinema", "https://ticketon.kz/theatres", "https://ticketon.kz/concerts", "https://ticketon.kz/children", "https://ticketon.kz/sports", "https://ticketon.kz/museums", "https://ticketon.kz/tours", "https://ticketon.kz/master-classes", "https://ticketon.kz/events"]
